@@ -10,8 +10,8 @@
   <meta content="" name="keywords">
 
   <!-- Favicons -->
-  <link href="{{ url('assets/img/favicon.png')}}" rel="icon">
-  <link href="{{ url('assets/img/apple-touch-icon.png')}}" rel="apple-touch-icon">
+  <link href="{{ url('pictures/favicon.jpg')}}" rel="icon">
+  <link href="{{ url('pictures/favicon.jpg')}}" rel="apple-touch-icon">
 
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet">
@@ -140,7 +140,7 @@
 
         <div class="row">
           <div class="col-lg-6 order-1 order-lg-2" data-aos="fade-left" data-aos-delay="100">
-            <img src="assets/img/about.jpg" class="img-fluid" alt="">
+            <img src="/pictures/info.jpg" class="img-fluid" alt="">
           </div>
           <div class="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1 content" data-aos="fade-right" data-aos-delay="100">
             <h3>FANE CONSULTING bénéficie d’une longue expérience de son promoteur au Mali dans le domaine informatique.</h3>
@@ -230,7 +230,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-webcam"></i></i></div>
               <h4><a type="button" data-bs-toggle="modal" data-bs-target="#install">Installation des Caméras de surveillance</a></h4>
-              <p>Voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi</p>
+              <p></p>
             </div>
           </div>
 
@@ -238,7 +238,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-receipt"></i></div>
               <h4><a type="button" data-bs-toggle="modal" data-bs-target="#vente">Ventes de matériels informatique</a></h4>
-              <p>Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore</p>
+              <p></p>
             </div>
           </div>
 
@@ -246,7 +246,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-browser-chrome"></i></i></div>
               <h4><a type="button" data-bs-toggle="modal" data-bs-target="#sites">Création/Développement de sites web</a></h4>
-              <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
+              <p></p>
             </div>
           </div>
 
@@ -254,7 +254,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-wrench-adjustable"></i>></i></div>
               <h4><a type="button" data-bs-toggle="modal" data-bs-target="#maint">Maintenance informatique</a></h4>
-              <p>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis</p>
+              <p></p>
             </div>
           </div>
 
@@ -262,7 +262,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-people"></i></div>
               <h4><a type="button" data-bs-toggle="modal" data-bs-target="#formation">Formations spécialisées</a></h4>
-              <p>Quis consequatur saepe eligendi voluptatem consequatur dolor consequuntur</p>
+              <p></p>
             </div>
           </div>
 
@@ -271,7 +271,7 @@
             <div class="icon-box">
               <div class="icon"><i class="bi bi-fire"></i></div>
               <h4><a type="button" data-bs-toggle="modal" data-bs-target="#securite">Sécurité Incendie</a></h4>
-              <p>Modi nostrum vel laborum. Porro fugit error sit minus sapiente sit aspernatur</p>
+              <p></p>
             </div>
           </div>
 
@@ -557,7 +557,7 @@
                   <div class="count-box">
                     <i class="bi bi-emoji-smile"></i>
                     <span data-purecounter-start="0" data-purecounter-end="65" data-purecounter-duration="2" class="purecounter"></span>
-                    <p><strong>Happy Clients</strong> consequuntur voluptas nostrum aliquid ipsam architecto ut.</p>
+                    <p><strong></strong></p>
                   </div>
                 </div>
 
@@ -565,7 +565,7 @@
                   <div class="count-box">
                     <i class="bi bi-journal-richtext"></i>
                     <span data-purecounter-start="0" data-purecounter-end="85" data-purecounter-duration="2" class="purecounter"></span>
-                    <p><strong>Projects</strong> adipisci atque cum quia aspernatur totam laudantium et quia dere tan</p>
+                    <p><strong></strong></p>
                   </div>
                 </div>
 
@@ -573,7 +573,7 @@
                   <div class="count-box">
                     <i class="bi bi-clock"></i>
                     <span data-purecounter-start="0" data-purecounter-end="35" data-purecounter-duration="4" class="purecounter"></span>
-                    <p><strong>Years of experience</strong> aut commodi quaerat modi aliquam nam ducimus aut voluptate non vel</p>
+                    <p><strong></strong></p>
                   </div>
                 </div>
 
@@ -581,7 +581,7 @@
                   <div class="count-box">
                     <i class="bi bi-award"></i>
                     <span data-purecounter-start="0" data-purecounter-end="20" data-purecounter-duration="4" class="purecounter"></span>
-                    <p><strong>Awards</strong> rerum asperiores dolor alias quo reprehenderit eum et nemo pad der</p>
+                    <p><strong></strong></p>
                   </div>
                 </div>
               </div>
@@ -606,7 +606,7 @@
                 <h4>Developpeur &amp; Responsable technique</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Proin iaculis purus consequat sem cure digni ssim donec porttitora entum suscipit rhoncus. Accusantium quam, ultricies eget id, aliquam eget nibh et. Maecen aliquam, risus at semper.
+               Gagner et consolider la confiance de nos clients par la rigueur de toute l'équipe et par la qualité de nos prestations.
                   <i class="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
               </div>
@@ -642,10 +642,10 @@
               <div class="testimonial-item">
                 <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
                 <h3>Daouda FANE</h3>
-                <h4>Directeur Général</h4>
+                <h4>Promoteur, Président Directeur Général</h4>
                 <p>
                   <i class="bx bxs-quote-alt-left quote-icon-left"></i>
-                  Fugiat enim eram quae cillum dolore dolor amet nulla culpa multos export minim fugiat minim velit minim dolor enim duis veniam ipsum anim magna sunt elit fore quem dolore labore illum veniam.
+                    Toute une équipe vous attend
                   <i cl
                   ass="bx bxs-quote-alt-right quote-icon-right"></i>
                 </p>
@@ -872,11 +872,11 @@
           <div class="col-lg-2 col-md-6 footer-links">
             <h4>Liens utiles</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Home</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#hero">Home</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#about">About us</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#services">Services</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#portfolio">Portefolio</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#contact">Contact</a></li>
             </ul>
           </div>
 
@@ -894,7 +894,7 @@
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Merci, </h4>
-            <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+            <p>Pour votre attention</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
             </form>
