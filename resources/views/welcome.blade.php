@@ -245,7 +245,7 @@
           <div id="web" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-browser-chrome"></i></i></div>
-              <h4><a type="button" data-bs-toggle="modal" data-bs-target="#sites">Création de sites web</a></h4>
+              <h4><a type="button" data-bs-toggle="modal" data-bs-target="#sites">Création/Développement de sites web</a></h4>
               <p>Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia</p>
             </div>
           </div>
@@ -852,7 +852,7 @@
 
           <div class="col-lg-3 col-md-6">
             <div class="footer-info">
-              <h3>Gp<span>.</span></h3>
+              <h3>FC<span>.</span></h3>
               <p>
                Yirimadio, près de la BNDA <br>
                 Bamako, MALI<br><br>
@@ -860,11 +860,11 @@
                 <strong>Email:</strong>ousmanefane08@gmail.com<br>
               </p>
               <div class="social-links mt-3">
-                <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-                <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-                <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-                <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-                <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+                <a  class="twitter"><i class="bx bxl-twitter"></i></a>
+                <a  class="facebook"><i class="bx bxl-facebook"></i></a>
+                <a  class="instagram"><i class="bx bxl-instagram"></i></a>
+                <a  class="google-plus"><i class="bx bxl-skype"></i></a>
+                <a  class="linkedin"><i class="bx bxl-linkedin"></i></a>
               </div>
             </div>
           </div>
@@ -883,16 +883,17 @@
           <div class="col-lg-3 col-md-6 footer-links">
             <h4>Nos Services</h4>
             <ul>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-              <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#cam">Installation des Caméras de surveillance</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#vente">Ventes de matériels informatique</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#web">Création/Développement de sites web</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#main">Maintenance informatique</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#form">Formations spécialisées</a></li>
+              <li><i class="bx bx-chevron-right"></i> <a href="#securite">Sécurité Incendie</a></li>
             </ul>
           </div>
 
           <div class="col-lg-4 col-md-6 footer-newsletter">
-            <h4>Our Newsletter</h4>
+            <h4>Merci, </h4>
             <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
             <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
@@ -913,7 +914,7 @@
         <!-- You can delete the links only if you purchased the pro version. -->
         <!-- Licensing information: https://bootstrapmade.com/license/ -->
         <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/ -->
-        Designed by <a >Fane</a>
+        developed by<a > <b>FANE OUSMANE</a></b>
       </div>
     </div>
   </footer><!-- End Footer -->
