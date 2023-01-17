@@ -77,7 +77,7 @@
           </li> --}}
           <li><a class="nav-link scrollto" href="#contact">Contact</a></li>
         </ul>
-        <i class="bi bi-list mobile-nav-toggle"></i>
+        {{-- <i class="bi bi-list mobile-nav-toggle"></i> --}}
       </nav><!-- .navbar -->
 
       <a href="#about" class="get-started-btn scrollto">Bienvenue</a>
@@ -206,9 +206,8 @@
               <p>Par la qualité de nos prestations</p>
             </div>
             <div class="icon-box mt-5" data-aos="zoom-in" data-aos-delay="150">
-              <i class="bx bx-shield"></i>
-              <h4>Beatae veritatis</h4>
-              <p>Expedita veritatis consequuntur nihil tempore laudantium vitae denat pacta</p>
+
+              <p>Telle est notre slogan...</p>
             </div>
           </div>
         </div>
@@ -408,7 +407,7 @@
         <div class="row" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
-              <li data-filter="*" class="filter-active">All</li>
+              <li data-filter="*" class="filter-active">Tous</li>
               <li data-filter=".filter-app">Sites web design</li>
               <li data-filter=".filter-card">Maintenance</li>
               <li data-filter=".filter-web">Vente de matéreils</li>
@@ -640,7 +639,7 @@
 
             <div class="swiper-slide">
               <div class="testimonial-item">
-                <img src="assets/img/testimonials/testimonials-4.jpg" class="testimonial-img" alt="">
+                <img src="/pictures/father.jpeg" class="testimonial-img" alt="">
                 <h3>Daouda FANE</h3>
                 <h4>Promoteur, Président Directeur Général</h4>
                 <p>
@@ -832,7 +831,7 @@
                         @endif
                     </div>
                 </div>
-              <div class="text-center php-email-form"><button type="submit">Send Message</button></div>
+              <div class="text-center php-email-form"><button type="submit">Envoyer</button></div>
             </form>
 
           </div>
@@ -895,9 +894,9 @@
           <div class="col-lg-4 col-md-6 footer-newsletter">
             <h4>Merci, </h4>
             <p>Pour votre attention</p>
-            <form action="" method="post">
+            {{-- <form action="" method="post">
               <input type="email" name="email"><input type="submit" value="Subscribe">
-            </form>
+            </form> --}}
 
           </div>
 
