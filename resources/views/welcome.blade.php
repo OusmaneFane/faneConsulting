@@ -236,7 +236,7 @@
           <div id="vente" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-md-0" data-aos="zoom-in" data-aos-delay="200">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-receipt"></i></div>
-              <h4><a type="button" data-bs-toggle="modal" data-bs-target="#vente">Ventes de matériels informatique</a></h4>
+              <h4><a type="button" data-bs-toggle="modal" data-bs-target="#vente2">Ventes de matériels informatique</a></h4>
               <p></p>
             </div>
           </div>
@@ -305,7 +305,7 @@
           <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
         </div>
         <div class="modal-body">
-          <img src="/pictures/fond.jpg" alt="">
+
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
@@ -314,7 +314,7 @@
     </div>
   </div>
   <!-- Modal vente  -->
-<div class="modal fade" id="vente" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+<div class="modal fade" id="vente2" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
     <div class="modal-dialog modal-dialog-centered modal-dialog-scrollable">
       <div class="modal-content">
         <div class="modal-header">
