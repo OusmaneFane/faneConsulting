@@ -188,7 +188,7 @@
       <div class="container" data-aos="fade-up">
 
         <div class="row">
-          <div class="image col-lg-6" style='background-image: url("/pictures/moi2.jpg");' data-aos="fade-right"></div>
+          <div class="image col-lg-6" style='background-image: url("/pictures/sana1.jpg");' data-aos="fade-right"></div>
           <div class="col-lg-6" data-aos="fade-left" data-aos-delay="100">
             <div class="icon-box mt-5 mt-lg-0" data-aos="zoom-in" data-aos-delay="150">
               <i class="bx bx-receipt"></i>
@@ -244,7 +244,7 @@
           <div id="web" class="col-lg-4 col-md-6 d-flex align-items-stretch mt-4 mt-lg-0" data-aos="zoom-in" data-aos-delay="300">
             <div class="icon-box">
               <div class="icon"><i class="bi bi-browser-chrome"></i></i></div>
-              <h4><a type="button" data-bs-toggle="modal" data-bs-target="#sites">Création/Développement de sites web</a></h4>
+              <h4><a type="button" data-bs-toggle="modal" data-bs-target="#sites">Cré2ation/Développement de sites web</a></h4>
               <p></p>
             </div>
           </div>
